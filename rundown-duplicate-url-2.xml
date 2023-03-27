@@ -10,7 +10,7 @@
     <item>
       <g:panel type="RUNDOWN">Rundown 2</g:panel>
       <g:panel_title>Rundown 2</g:panel_title>
-      <guid isPermaLink="false">urn:uuid:6b279328-d433-47ce-8a0c-d885836d4e7e</guid>
+      <guid isPermaLink="false">external-id-2</guid>
       <pubDate>Fri, 29 May 2020 14:10:00 GMT</pubDate>
       <atom:updated>2020-05-30T07:30:30Z</atom:updated>
       <g:article_group role="RUNDOWN">
