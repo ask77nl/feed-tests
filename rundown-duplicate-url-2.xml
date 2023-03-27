@@ -8,9 +8,9 @@
     <link>https://example.com/</link>
     <atom:link rel="self" href="https://example.com/rss"/>
     <item>
-      <g:panel type="RUNDOWN">Rundown 2</g:panel>
-      <g:panel_title>Rundown 2</g:panel_title>
-      <guid isPermaLink="false">external-id-2</guid>
+      <g:panel type="RUNDOWN">Rundown 3</g:panel>
+      <g:panel_title>Rundown 3</g:panel_title>
+      <guid isPermaLink="false">external-id-3</guid>
       <pubDate>Fri, 29 May 2020 14:10:00 GMT</pubDate>
       <atom:updated>2020-05-30T07:30:30Z</atom:updated>
       <g:article_group role="RUNDOWN">
