@@ -8,9 +8,9 @@
     <link>https://example.com/</link>
     <atom:link rel="self" href="https://example.com/rss"/>
     <item>
-      <g:panel type="RUNDOWN">Rundown 4</g:panel>
-      <g:panel_title>Rundown 4</g:panel_title>
-      <guid isPermaLink="false">external-id-4</guid>
+      <g:panel type="RUNDOWN">Rundown 5</g:panel>
+      <g:panel_title>Rundown 5</g:panel_title>
+      <guid isPermaLink="false">external-id-5</guid>
       <pubDate>Fri, 29 May 2020 14:10:00 GMT</pubDate>
       <atom:updated>2020-05-30T07:30:30Z</atom:updated>
       <g:article_group role="RUNDOWN">
@@ -28,7 +28,7 @@
         <link>https://scenic-2017.appspot.com/1</link>
         <author><name>By Author 2</name></author>
         <g:overline>Overline 2</g:overline>
-        <media:content url="https://scenic-2017.appspot.com/hero/1.jpeg"></media:content>
+        <media:content url="https://scenic-2017.appspot.com/hero/2.jpeg"></media:content>
       </item>
       <item>
         <guid>urn:uuid:6ab4e6d8-327c-4c07-a9bc-b647f8f6c891</guid>
@@ -36,7 +36,7 @@
         <link>https://scenic-2017.appspot.com/1</link>
         <author><name>By Author 3</name></author>
         <g:overline>Overline 3</g:overline>
-        <media:content url="https://scenic-2017.appspot.com/hero/1.jpeg"></media:content>
+        <media:content url="https://scenic-2017.appspot.com/hero/3.jpeg"></media:content>
       </item>
     </g:article_group>
     </item>
