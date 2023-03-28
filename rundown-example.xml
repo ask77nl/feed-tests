@@ -8,9 +8,9 @@
     <link>https://example.com/</link>
     <atom:link rel="self" href="https://example.com/rss"/>
     <item>
-      <g:panel type="RUNDOWN">Rundown 7</g:panel>
-      <g:panel_title>Rundown 7</g:panel_title>
-      <guid isPermaLink="false">external-id-7</guid>
+      <g:panel type="RUNDOWN">Rundown 8</g:panel>
+      <g:panel_title>Rundown 8</g:panel_title>
+      <guid isPermaLink="false">external-id-8</guid>
       <pubDate>Fri, 29 May 2020 14:10:00 GMT</pubDate>
       <atom:updated>2020-05-30T07:30:30Z</atom:updated>
       <g:article_group role="RUNDOWN">
@@ -20,7 +20,7 @@
         <link>https://scenic-2017.appspot.com/1</link>
         <author><name>By Author 1</name></author>
         <g:overline>Overline 1</g:overline>
-        <media:content url="https://static01.nyt.com/images/2023/03/19/business/19Zoomfriends-promo-illo/19Zoomfriends-promo-illo-threeByTwoLargeAt2X.jpg"></media:content>
+        <media:content url="https://caracoltv.brightspotcdn.com/dims4/default/61f2767/2147483647/strip/true/crop/472x361+0+0/resize/472x361!/format/webp/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.amazonaws.com%2F58%2F81%2Fcda213ec4dfa91cbd06431365658%2Fsabaneta-noticias-caracol.jpg"></media:content>
       </item>
       <item>
         <guid>urn:uuid:f48c57fb-2b8d-4156-a52d-cd262d826095</guid>
